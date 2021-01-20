@@ -1,0 +1,3 @@
+include ':localDataBase'
+include ':app'
+rootProject.name = "LocationUpdateApp"
