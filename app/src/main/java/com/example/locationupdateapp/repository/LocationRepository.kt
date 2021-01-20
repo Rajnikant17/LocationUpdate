@@ -1,9 +1,10 @@
-package com.example.locationupdateapp.di
+package com.example.locationupdateapp.repository
 
 import android.annotation.SuppressLint
 import android.os.Looper
 import com.example.localdatabase.Entity
 import com.example.localdatabase.RoomDao
+import com.example.locationupdateapp.di.impl1
 import com.google.android.gms.location.*
 import kotlinx.coroutines.runBlocking
 import java.text.SimpleDateFormat
@@ -15,10 +16,10 @@ import javax.inject.Singleton
 class LocationRepository
 @Inject
 constructor(
-    @impl1 val locationRequestWhenTimeChanges: LocationRequest,
-    @impl1 val locationRequestWhenDistanceChanges: LocationRequest,
-    val roomDao: RoomDao,
-    val fusedLocationClient: FusedLocationProviderClient
+        @impl1 val locationRequestWhenTimeChanges: LocationRequest,
+        @impl1 val locationRequestWhenDistanceChanges: LocationRequest,
+        val roomDao: RoomDao,
+        val fusedLocationClient: FusedLocationProviderClient
 ) {
 
     @SuppressLint("MissingPermission")

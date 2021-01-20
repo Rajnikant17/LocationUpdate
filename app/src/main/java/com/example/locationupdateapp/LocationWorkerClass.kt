@@ -5,7 +5,7 @@ import androidx.hilt.Assisted
 import androidx.hilt.work.WorkerInject
 import androidx.work.Worker
 import androidx.work.WorkerParameters
-import com.example.locationupdateapp.di.LocationRepository
+import com.example.locationupdateapp.repository.LocationRepository
 import java.lang.Exception
 
 

@@ -21,7 +21,7 @@ class LocationModule {
     fun locationRequestWhentimeChanges(): LocationRequest {
         return LocationRequest().apply {
             priority = LocationRequest.PRIORITY_HIGH_ACCURACY
-            interval = 3 * 1000
+            interval = 30 * 1000
         }
     }
 
