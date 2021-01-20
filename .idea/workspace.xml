@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="736fc302-0b74-466d-a4b0-b75ab4c056a0" name="Default Changelist" comment="" />
+    <list default="true" id="736fc302-0b74-466d-a4b0-b75ab4c056a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,5 +141,21 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="365" y="169" width="754" height="454" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1611140543283" />
+    <state width="1253" height="131" key="GridCell.Tab.0.bottom" timestamp="1611140566932">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="131" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1611140566932" />
+    <state width="1253" height="131" key="GridCell.Tab.0.center" timestamp="1611140566930">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="131" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1611140566930" />
+    <state width="1253" height="131" key="GridCell.Tab.0.left" timestamp="1611140566929">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="131" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1611140566929" />
+    <state width="1253" height="131" key="GridCell.Tab.0.right" timestamp="1611140566931">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="131" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1611140566931" />
   </component>
 </project>
